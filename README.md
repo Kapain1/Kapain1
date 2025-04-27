@@ -1,16 +1,15 @@
-<h1 align="center">Hi there, I'm Kapain1 👋</h1>
+<h1 align="center">Hi, I'm Kapain1 👋</h1>
 
 <p align="center">
-🚀 Aspiring Developer | 🎯 Passionate about Games and Tech  
-🌱 Currently learning Unity and C#
+🚀 Game Development Enthusiast | 🌱 Learning Unity & C# | 🎯 Always curious about making better games
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 self-taught developer
-- 🌱 Continuously learning C# and Unity game development
-- 💬 Interested in creating fun and meaningful projects
+- 🎓 Self-taught developer with a passion for games and technology
+- 🛠 Currently focused on Unity game development and improving my C# skills
+- 💡 Interested in creating fun, simple, and meaningful gaming experiences
 
 ---
 
@@ -35,9 +34,9 @@
 
 ---
 
-## 📫 How to reach me
+## 📫 Contact
 - 📧 Email: kapain0909@naver.com
 
 ---
 
-<p align="center">Thanks for visiting! 🚀</p>
+<p align="center">Thanks for stopping by! 🚀</p>
